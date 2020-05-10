@@ -12,5 +12,7 @@ Solutions to Leetcode May Challenge
 | 7   | https://leetcode.com/explore/featured/card/may-leetcoding-challenge/534/week-1-may-1st-may-7th/3322/  | Level of tree             | Easy       | 15 mins       |
 | 8   | https://leetcode.com/explore/featured/card/may-leetcoding-challenge/535/week-2-may-8th-may-14th/3323/ | Slope of a line           | Easy       | 1 hr          |
 | 9   | https://leetcode.com/explore/featured/card/may-leetcoding-challenge/535/week-2-may-8th-may-14th/3324/ | Math and Long             | Easy       | 10 mins       |
+| 10  | https://leetcode.com/explore/featured/card/may-leetcoding-challenge/535/week-2-may-8th-may-14th/3325/ | Arrays                    | Easy       | 30 mins       |
+
 
 
