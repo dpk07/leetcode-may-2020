@@ -15,6 +15,7 @@ Solutions to Leetcode May Challenge
 | 10  | https://leetcode.com/explore/featured/card/may-leetcoding-challenge/535/week-2-may-8th-may-14th/3325/ | Arrays                    | Easy       | 30 mins       |
 | 11  | https://leetcode.com/explore/featured/card/may-leetcoding-challenge/535/week-2-may-8th-may-14th/3326/ | DFS(Flood Fill)           | Easy       | 10 mins       |
 | 12  | https://leetcode.com/explore/featured/card/may-leetcoding-challenge/535/week-2-may-8th-may-14th/3327/ | Array                     | Easy       | 10 mins       |
+| 13  | https://leetcode.com/explore/featured/card/may-leetcoding-challenge/535/week-2-may-8th-may-14th/3328/ | Stack                     | Hard       | 3 hours       |
 
 
 
