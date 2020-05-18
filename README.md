@@ -19,7 +19,8 @@ Solutions to Leetcode May Challenge
 | 14  | https://leetcode.com/explore/featured/card/may-leetcoding-challenge/535/week-2-may-8th-may-14th/3329/  | Trie                      | Easy       | 15 mins       |
 | 15  | https://leetcode.com/explore/featured/card/may-leetcoding-challenge/536/week-3-may-15th-may-21st/3330/ | Kadane                    | Hard       | 1 hour        |
 | 16  | https://leetcode.com/explore/featured/card/may-leetcoding-challenge/536/week-3-may-15th-may-21st/3331/ | Linked List               | Easy       | 20 mins       |
-| 17  | https://leetcode.com/explore/featured/card/may-leetcoding-challenge/536/week-3-may-15th-may-21st/3332/ | Array                     | Medium     | 40 mins       |
+| 17  | https://leetcode.com/explore/featured/card/may-leetcoding-challenge/536/week-3-may-15th-may-21st/3332/ | Sliding window            | Medium     | 40 mins       |
+| 18  | https://leetcode.com/explore/featured/card/may-leetcoding-challenge/536/week-3-may-15th-may-21st/3333/ | Sliding window            | Hard       | 2 hrs         |
 
 
 
