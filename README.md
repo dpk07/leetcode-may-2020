@@ -21,6 +21,7 @@ Solutions to Leetcode May Challenge
 | 16  | https://leetcode.com/explore/featured/card/may-leetcoding-challenge/536/week-3-may-15th-may-21st/3331/ | Linked List               | Easy       | 20 mins       |
 | 17  | https://leetcode.com/explore/featured/card/may-leetcoding-challenge/536/week-3-may-15th-may-21st/3332/ | Sliding window            | Medium     | 40 mins       |
 | 18  | https://leetcode.com/explore/featured/card/may-leetcoding-challenge/536/week-3-may-15th-may-21st/3333/ | Sliding window            | Hard       | 2 hrs         |
+| 19  | https://leetcode.com/explore/featured/card/may-leetcoding-challenge/536/week-3-may-15th-may-21st/3334/ | Stack                     | Hard       | 2 hrs         |
 
 
 
