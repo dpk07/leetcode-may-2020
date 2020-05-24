@@ -26,6 +26,7 @@ Solutions to Leetcode May Challenge
 | 21  | https://leetcode.com/explore/featured/card/may-leetcoding-challenge/536/week-3-may-15th-may-21st/3336/  | Dynamic Programming                  | Hard       | 1 hr          |
 | 22  | https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/537/week-4-may-22nd-may-28th/3337/ | Heap/Sorting                         | Easy       | 10 mins       |
 | 23  | https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/537/week-4-may-22nd-may-28th/3338/ | Two Pointers (Similar to Merge sort) | Easy       | 20 mins       |
+| 24  | https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/537/week-4-may-22nd-may-28th/3339/ | BST (Preorder)                       | Easy       | 30 mins       |
 
 
 
