@@ -29,6 +29,8 @@ Solutions to Leetcode May Challenge
 | 24  | https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/537/week-4-may-22nd-may-28th/3339/ | BST (Preorder)                       | Easy       | 30 mins       |
 | 25  | https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/537/week-4-may-22nd-may-28th/3340/ | Dynamic Programming(LCS)             | Easy       | 30 mins       |
 | 26  | https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/537/week-4-may-22nd-may-28th/3341/ | PreSum                               | Hard       | 30 mins       |
+| 27  | https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/537/week-4-may-22nd-may-28th/3342/ | Graph(BFS/DFS)                       | Medium     | 1 Hour        |
+
 
 
 
