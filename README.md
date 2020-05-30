@@ -31,8 +31,8 @@ Solutions to Leetcode May Challenge
 | 26  | https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/537/week-4-may-22nd-may-28th/3341/ | PreSum                               | Hard       | 30 mins       |
 | 27  | https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/537/week-4-may-22nd-may-28th/3342/ | Graph(BFS/DFS)                       | Medium     | 1 Hour        |
 | 28  | https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/537/week-4-may-22nd-may-28th/3343/ | Dynamic Programming                  | Medium     | 30 mins       |
-| 29  | https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/537/week-4-may-22nd-may-28th/3344/ | Topological sorting                  | Easy       | 30 mins       |
-
+| 29  | https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/538/week-5-may-29th-may-31st/3344/ | Topological sorting                  | Easy       | 30 mins       |
+| 30  | https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/538/week-5-may-29th-may-31st/3345/ | Max Heap                             | Easy       | 30 mins       |
 
 
 
