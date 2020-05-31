@@ -33,6 +33,7 @@ Solutions to Leetcode May Challenge
 | 28  | https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/537/week-4-may-22nd-may-28th/3343/ | Dynamic Programming                  | Medium     | 30 mins       |
 | 29  | https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/538/week-5-may-29th-may-31st/3344/ | Topological sorting                  | Easy       | 30 mins       |
 | 30  | https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/538/week-5-may-29th-may-31st/3345/ | Max Heap                             | Easy       | 30 mins       |
+| 31  | https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/538/week-5-may-29th-may-31st/3346/ | Dynamic Programming                  | Easy       | 15 mins       |
 
 
 
